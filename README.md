@@ -52,5 +52,3 @@ A full-stack web app for saving and managing contacts. Users fill out a form in 
 - Search and category filter using query strings on the API
 - Meaningful use of useContext (toast notifications)
 
-# This project was Assisted by AI...
-
